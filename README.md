@@ -1,1 +1,1 @@
-# Basics of Coding Pluto
+# Basics of Coding Pluto Notebooks
